@@ -16,5 +16,8 @@ O mesmo é frequentemente usado por uma organização para extrair dados dos sis
 
 O ETL fornece a base para fluxos de trabalho de análise de dados e de machine learning, através de diversas regras de negócios, o ETL limpa e organiza os dados para atender a necessidades específicas de negócios, como relatórios mensais e, além disso, pode realizar análises avançadas, que podem aprimorar os processos de back-end ou a experiência do usuário final. 
 
+# Ferramentas
+Vs code & Jupyter Notebook
+
 
 
