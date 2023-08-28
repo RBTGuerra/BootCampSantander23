@@ -1,10 +1,11 @@
 # Projeto
-Neste Desafio de Projeto o Objetivo é a partir dos Dados FICTÍCIOS gerar recomendações personalisadas para cada tipo de Perfil e por fim devolvelo em formato .json!
+Neste Desafio de Projeto o Objetivo é a partir dos Dados FICTÍCIOS gerar recomendações personalisadas para cada tipo de Perfil e por fim devolve-lo em formato .json!
+
 Este Processo Passou por 3 Etapas:
 
-1 - Extração dos dados a partir de um arquivo .csv onde foi utilizado a poderosa Biblioteca Pandas. 
+1 - Extração dos dados a partir de um arquivo .csv. 
 
-2 - Tranformação onde os Dados passaram por uma tranformação de linhas para uma tabela usando Dataframe do Pandas.
+2 - Transformação onde os Dados passaram por uma transformação de linhas para uma tabela usando Dataframe do Pandas.
 
 3 - Carregamento a partir desta tabela de Dados já personalizada carregar em um arquivo em .json.
 
