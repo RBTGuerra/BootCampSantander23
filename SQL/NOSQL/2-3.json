@@ -1,0 +1,48 @@
+{   
+    "_id": "",
+    "nome": "nome",
+    "data_nascimento": "1990-10-05",
+    "email": "sebastiao.silva.jose@gmail.com",
+    "endereco": "Av Paulista, 380 - bela vista, São Paulo/SP"
+    
+}
+// ou
+{
+    "_id": "",
+    "nome": "nome",
+    "data_nascimento": "1990-10-05",
+    "email": "sebastiao.silva.jose@gmail.com",
+    "endereco": {
+        "rua": "Av Paulista",
+        "numero": 123,
+        "cidade": "São Paulo",
+        "estado": "SP"
+    }
+}
+// ou
+{   
+    "_id": "",
+    "nome": "nome",
+    "data_nascimento": "1980-11-05",
+    "email": "sebastiao.silva.jose@gmail.com",
+    "enderecos": [
+        {
+        "rua": "Av Paulista",
+        "numero": 123,
+        "cidade": "São Paulo",
+        "estado": "SP"
+        },
+        {
+        "rua": "Av Do estado",
+        "numero": 123,
+        "cidade": "São Paulo",
+        "estado": "SP"
+        },
+    ]
+}
+
+{
+    "_id": "",
+    "nome": "nome destino",
+    "descricao": "Descricao do destino"
+}
